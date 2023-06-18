@@ -15,6 +15,6 @@ buttonNode.addEventListener('click', () => {
 });
 
 function renderNewBanner() {
-  bannerNode.classList.add('.banner-new');
+  bannerNode.classList.add('banner-new');
   titleNode.innerHTML = NEW_DESK;
 }

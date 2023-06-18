@@ -69,6 +69,18 @@ h1 {
     width: 100%;
     padding: 0 12px;
   }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  .desk {
+    font-size: 32px;
+  }
+
+  .button {
+    font-size: 30px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -78,7 +90,4 @@ h1 {
 }
 
 @media (max-width: 560px) {
-  .add__input {
-    max-width: 175px;
-  }
 }
