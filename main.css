@@ -8,7 +8,7 @@ body {
 
 .banner {
   height: 100vh;
-  padding-top: 100px;
+  padding-top: 50px;
   background: linear-gradient(
     180deg,
     rgba(0, 0, 0, 0) 0%,
@@ -76,6 +76,7 @@ h1 {
 
   .desk {
     font-size: 32px;
+    height: 130px;
   }
 
   .button {
