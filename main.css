@@ -15,6 +15,13 @@ body {
     rgba(0, 0, 0, 0.2) 47.62%
   );
 }
+.banner-new {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 176, 28, 0.2) 24.48%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
 
 .container {
   max-width: 500px;
